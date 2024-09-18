@@ -364,10 +364,9 @@ export default VideoCarousel;
 
 </details>
 
-- [Live Demo](https://example.com)
-- [My GitHub](https://github.com/QusaiJohar)
-- [My LinkedIn](https://linkedin.com/in/qusaid-johar)
-- [My Twitter](https://twitter.com/QusaiJohar)
+- [My GitHub](https://github.com/Qusai007/)
+- [My LinkedIn](https://www.linkedin.com/in/qusai-johar/)
+- [My Instagram](https://www.instagram.com/official_qusai_johar/)
 
 ## <a name="more">🚀 More</a>
 
