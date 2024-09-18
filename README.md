@@ -364,8 +364,6 @@ export default VideoCarousel;
 
 </details>
 
-## <a name="links">🔗 Links</a>
-
 - [Live Demo](https://example.com)
 - [My GitHub](https://github.com/QusaiJohar)
 - [My LinkedIn](https://linkedin.com/in/qusaid-johar)
@@ -374,5 +372,3 @@ export default VideoCarousel;
 ## <a name="more">🚀 More</a>
 
 If you found this tutorial helpful, please consider giving it a star! ⭐
-
-For more projects and updates, follow me on my social media!
