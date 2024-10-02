@@ -37,7 +37,7 @@ This repository contains the code for an in-depth tutorial. If you prefer visual
 
 This project is a clone of Apple's iPhone 15 Pro website built using React.js and TailwindCSS. It showcases the use of GSAP (Greensock Animations) and Three.js to display iPhone 15 Pro models in various colors and shapes.
 
-If you’re just starting out and need help or encounter any issues, feel free to reach out to my community!
+You can view the live application [here](https://i-phone-main.vercel.app/).
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
